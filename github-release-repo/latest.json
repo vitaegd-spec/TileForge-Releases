@@ -1,8 +1,0 @@
-{
-  "version": "1.13.0",
-  "released": "2026-10-25",
-  "download": "https://github.com/vitaegd-spec/TileForge-Releases/releases/latest",
-  "notes": "https://github.com/vitaegd-spec/TileForge-Releases/releases/latest",
-  "minimum_supported": "1.12.0",
-  "summary": "First public release: offline licence keys, trial mode and update notifications."
-}
