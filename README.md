@@ -2,6 +2,8 @@
 
 **Search. Drag. Snap. Build. Animate. Export.**
 
+<img width="1000" alt="image" src="images/Screenshot.png" />
+
 TileForge is a Windows desktop scene builder for turning ordinary transparent PNG assets into finished **2D, isometric and one-point-perspective game scenes**, with a workflow designed around fast visual composition and direct **Godot 4** export.
 
 Instead of forcing every prop into a conventional tileset, TileForge lets you mix **grid-fitted surfaces, upright props and completely free overlays** in the same scene, then add terrain rules, animation, collision, navigation, markers, lighting and room links.
