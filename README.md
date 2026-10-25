@@ -1,4 +1,4 @@
-# TileForge 1.12
+# TileForge 1.13
 
 **Search. Drag. Snap. Build. Animate. Export.**
 
@@ -49,7 +49,7 @@ TileForge focuses on the gap between **making artwork** and **building the actua
 
 ## Current version
 
-TileForge **1.12.0**
+TileForge **1.13.0**
 
 ## License
 
